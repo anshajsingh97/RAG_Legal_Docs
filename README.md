@@ -13,7 +13,7 @@ The objective of the assignment is to process and analyze a collection of legal 
 This ZIP file contains the complete assignment submission as required.
 
 **Contents of the ZIP file:**
-- `RAG_Assg_Legal_Documents_Starter.ipynb`
+- `RAG_Legal_Docs_Anshaj_Singh.ipynb`
 
 The notebook includes:
 - Data loading and preprocessing
@@ -26,7 +26,7 @@ The notebook includes:
 
 ---
 
-### 2. RAG_Assg_Legal_Documents_Starter.ipynb (Optional)
+### 2. RAG_Legal_Docs_Anshaj_Singh.ipynb 
 The notebook is also provided separately in the repository for easier viewing and review.  
 This file is identical to the notebook included inside the ZIP file.
 
